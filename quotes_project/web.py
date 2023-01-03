@@ -9,10 +9,6 @@ import time
 class webScraper:
         def twitter():
                 global twitter_stuff
-                consumer_key = "89kWSiZBHHYSA69zEd1rzTEVm"
-                consumer_secret = "WiBDbQ2BhK6aM8xw06OavmkPlcvWUvr3jxhX3DYwTpyIMNMvGR"
-                access_token = "1489226596691157000-krz91b5wZiWUTdejZDJh7CLncbNiDI"
-                access_token_secret = "w4wtt3CAKUzOleDhAD2OQrkyjldXN26WQHfGuxzePjvyn"
         # twitter api details
                 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
                 auth.set_access_token(access_token, access_token_secret)
