@@ -1,28 +1,9 @@
-Project Title: 
+# Personal Project
 
-Twitter quote generator using Python
+## Description
 
-Purpose of the project:
+A repository for my personal projects, with different coding languages
 
-To print philosophy quotes into my twitter account. 
+## Table of Contents
 
-1- It obtains the quotes from the website, and stores in an array
-
-2- It removes the extra stuff, and just upload the barebones to twitter.
-
-3- It run through 2 different tests, to ensure that is less than 280 words, and its not duplicated.
-
-
-HOW TO START THIS PROJECT:
-
-- Run the project through terminal.
-
-Twitter page:
-
-1. open the link "https://twitter.com/KFroggies"
-2. Read all previous generated outputs.
-
-
-Authors:
-
-Raphael M. Tolentino
+> - [Description](#description)
