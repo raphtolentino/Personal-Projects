@@ -15,7 +15,7 @@ This is a website project, that I developed during my university degree. Its inc
 
 The website is a burger website, where you can order burgers and drinks. It uses a database to store the orders, and a payment system to pay for the orders.
 
-> - Quote Project - [#quote-project] (/quote_project)
+> - Quote Project - [#quote-project] (/quotes_project)
 
 This is a twitter both that generates a psychological quote from a website. It uses the Twitter API to post the quote on twitter.
 
